@@ -41,7 +41,7 @@
 #      v3aqb             <sgzz.cj@gmail.com>
 #      Oling Cat         <olingcat@gmail.com>
 
-__version__ = '3.1.18'
+__version__ = '3.1.19'
 
 import sys
 import os
